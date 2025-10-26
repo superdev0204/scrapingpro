@@ -1,0 +1,18 @@
+[
+	"input_county",
+	"apartment_url",
+	"apartment_name",
+	"street_address",
+	"city",
+	"state",
+	"zipcode",
+	"built_in",
+	"building_num/name",
+	"avg_rent_range",
+	"beds",
+	"baths",
+	"unit_num",
+	"unit_price",
+	"unit_size",
+	"availability"
+]

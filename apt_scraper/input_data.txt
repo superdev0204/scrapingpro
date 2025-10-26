@@ -1,0 +1,72 @@
+Luzerne County, PA
+Lackawanna County, PA
+Cumberland County, PA
+Maricopa County, AZ
+San Diego County, CA
+Oakland County, MI
+Wayne County, MI
+Hillsborough County, FL
+Clark County, NV
+Westchester County, NY
+Rockland County, NY
+Somerset County, NJ
+Middlesex County, NJ
+Mercer County, NJ
+Washington, DC
+Suffolk County, MA
+Alameda County, CA
+Orange County, NY
+Mecklenburg County, NC
+Hamilton County, IN
+Duval County, FL
+Clay County, FL
+Flagler County, FL
+Volusia County, FL
+Hamilton County, OH
+Butler County, OH
+Warren County, OH
+Clermont County, OH
+Boone County, KY
+Kenton County, KY
+Campbell County, KY
+Gwinnett County, GA
+Fulton County, GA
+Dekalb County, GA
+Bergen County, NJ
+Essex County, NJ
+Hudson County, NJ
+Union County, NJ
+Morris County, NJ
+Passaic County, NJ
+Monmouth County, NJ
+Sussex County, NJ
+Virginia Beach, VA
+Norfolk, VA
+Portsmouth, VA
+Worcester County, MA
+Norfolk County, MA
+Plymouth County, MA
+Middlesex County, MA
+Bristol County, MA
+Wake County, NC
+Durham County, NC
+Alamance County, NC
+Chesapeake, VA
+Newport News, VA
+Suffolk, VA
+Nassau County, FL
+St. Johns County, FL
+Baker County, FL
+Bradford County, FL
+Putnam County, FL
+Chesterfield County, VA
+Hanover County, VA
+Henrico County, VA
+Roanoke County, VA
+Anoka County, MN
+Carver County, MN
+Dakota County, MN
+Hennepin County, MN
+Ramsey County, MN
+Scott County, MN
+Washington County, MN

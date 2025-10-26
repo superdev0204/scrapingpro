@@ -1,0 +1,284 @@
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": [
+                "Product",
+                "RealEstateListing"
+            ],
+            "telephone": "+1-952-687-1204",
+            "description": "3 Bedrooms on 1 level, 3.5 Bathrooms, Walkout Patio, New appliances and new deck, Nearby shopping and eating, Scenic walking paths that go around Markgrafs Lake and more! Spectacular sunsets over the lake viewed from your deck or walk out patio! Top of the world feeling, Top of the world Living! All included: clubhouse access, fitness center, dog park, pool and more!",
+            "name": "10283 Bleeker St Woodbury, MN 55129",
+            "url": "https://www.apartments.com/10283-bleeker-st-woodbury-mn/lxgqzye/",
+            "@id": "https://www.apartments.com/10283-bleeker-st-woodbury-mn/lxgqzye/#SingleFamilyResidence",
+            "mainEntity": {
+                "@type": "SingleFamilyResidence",
+                "name": "10283 Bleeker St Woodbury, MN 55129",
+                "@id": "https://www.apartments.com/10283-bleeker-st-woodbury-mn/lxgqzye/#SingleFamilyResidence",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "10283 Bleeker St",
+                    "addressLocality": "Woodbury",
+                    "addressRegion": "MN",
+                    "postalCode": "55129",
+                    "addressCountry": "US"
+                },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": 44.94253,
+                    "longitude": -92.89739
+                },
+                "image": [
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/dEvxZS5s1a-ZTRS0VDzKPxTu_e4Sz3VJDHxgI2mx0K0/111/10283-bleeker-st-woodbury-mn-primary-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/1ISjVrHFz0HKZ9dpjBrai5TDESe9puf7nHnZxXun8sI/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/cMsYuFy559OHXqtnsYbKq2fYo-3iQ_qo5MprfpiM_xc/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/NWiMq-vURJTVkSwruWtXL-6yBjXSuyhsr_6kSumGBS0/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/LNOB706keqFaL7QcnYewmc8PA5DLMX2G1WIuVI2rbrU/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/LcVmUQNvoD9BQqMmDBsnwDiJCAY9V8CEkOiubtjS9Ps/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/LvD8Twc9cMETIo7-xk3iNikRsuh1Ypwvv_L0gaa_M2w/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/B2NoX2bgObXyJDvHjStQHMIAmXOE9nHh7-meK6fuaMk/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/Ev9X-EYkkQ7KYnsKKRsPyaA8Vf7lTIL2tnrxkzzEMsI/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/yqdMOWiqgJNWkXxhjtNJKnCbUDxPtmK_PXDRou8FT_I/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/HRACJffSIMfW1lKnR_lPQn7MofNgT1QQQPO7Yr3kN7M/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/CNs9nSy_Ip9kcBfcalqyvvv1K07dmCdAEVDlloLGIms/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/yjBedFv__Qxn8YyAfhrt0zBTMbobaFr_vYEFhyS_v98/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/lEVThpd0DtgLHxaZ6e3KzqDDJO3PDJA0fw9uCT_rzqk/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/Ammqh01uBAyPs7pKTYCBlAGevodWRyBSWBUkAl4WzAA/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/JjCwaEif97zXG5JJCP2ZacJTEYDcGyMRrJ_PCazLx2k/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/ccPsCaZHcB0NxDJ-LaZMNXFuosuyBTl_dBCyyXOwlyY/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/pcMzBfVqaFrU27-7APJIbjSOzTUFndSi1vueOLF1bqk/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/isv-Rhapocd-ptM6p-EtTHH4UUDtop9xMqnhz7ixNqM/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/6CIz8TpUiQX1c4RZtsvbQEk0gIbpBYkgVpb5KzidBGI/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/W_RCYN_fHn59kB1q11Q1ZOUrego_sSj_kfdtRQENGhY/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/JA9shTcOaUIpudV7dwiz6LmPOpQq8b3iLifBIovvigY/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/DzYEbqTnJXysAAc74xjmDsqg7w2kFhdJidP7EoVP0YQ/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/hOS4_WkKDTLzd2KUeTkjekN32S3_cN2qj5AeWu7wYNk/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/HLOzgwp-QqNOjyJP5ezBQBGXHstT0R68kPSdmICJ7jM/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/DgJ4tb_Zm2pcav5twIyLK6YaXq2etqMwJ9_eTbrLWzU/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/q4PcUkR4zkCmvelgP_PETz2ezhr1dADmVUUtpO8xK3k/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/iqFOLuRraqIB0Yn7LL0h7HdJOO1IIrFfkKJ1pIEcwcY/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/xBqZMoJMG8jcB7-SytdIYKySj49dyN3Po2mk11gGXJ8/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/S7C7ZmXLmEdDRgp4sdRSgieDyNucvcMgDi0VdtaAz3E/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/eKvAyAR4XlviDnUZEUOTRLxQ_dUoXXf2poHPWrzxtKE/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/SQMpBnUuo4ijzovHiQBgXRtOhKQhgIkHOIrwunO0XQs/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/29UIrw4t7nPfr9-9reFxmEcWjRz0vn4BHtk5b4bZQ5I/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/zteSYkIC-s8puLjQqPIttjV6L_L22Wi1piJ9Hg6BsMw/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/m-KlVf28xFRsQpQiih_LBWeMcz5ZxzvrXiX-1F9DM58/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    },
+                    {
+                        "@type": "https://schema.org/ImageObject",
+                        "url": "https://images1.apartments.com/i2/d0Gk8Aj_55MwiRhp7SmonysMarNKwlnxfFz9f7i6lcQ/117/10283-bleeker-st-woodbury-mn-building-photo.jpg"
+                    }
+                ],
+                "primaryImageOfPage": {
+                    "@type": "ImageObject",
+                    "url": "https://images1.apartments.com/i2/dEvxZS5s1a-ZTRS0VDzKPxTu_e4Sz3VJDHxgI2mx0K0/111/10283-bleeker-st-woodbury-mn-primary-photo.jpg",
+                    "width": 800,
+                    "height": 600,
+                    "caption": "10283 Bleeker St Woodbury, MN 55129"
+                },
+                "hasMap": "https://www.google.com/maps/place/44.94253,-92.89739",
+                "petsAllowed": true,
+                "lastReviewed": "2025-10-04T00:25:50.15-04:00",
+                "amenityFeature": [],
+                "mentions": {
+                    "@type": "Article",
+                    "url": "https://www.apartments.com/local-guide/woodbury-afton-lake-elmo-woodbury-mn/",
+                    "about": {
+                        "@type": "AdministrativeArea",
+                        "containedInPlace": {
+                            "@type": "City",
+                            "@id": "https://www.apartments.com/local-guide/woodbury-mn/#place",
+                            "name": "Woodbury"
+                        },
+                        "@id": "https://www.apartments.com/local-guide/woodbury-afton-lake-elmo-woodbury-mn/#place",
+                        "name": "Woodbury/Afton/Lake Elmo"
+                    },
+                    "@id": "https://www.apartments.com/local-guide/woodbury-afton-lake-elmo-woodbury-mn/#article",
+                    "name": "Woodbury/Afton/Lake Elmo",
+                    "description": "There\u2019s no denying the convenience of being 10 minutes east of downtown St. Paul, and residents have helped the Woodbury/Afton/ Lake Elmo area become a highly livable suburb with an increasing number of urban amenities, including great restaurants, bike trails, and pedestrian-friendly shopping areas.\n\n3M and other nearby corporate headquarters have brought in a diverse population. An excellent public school system draws those with children, and the bordering cities of Afton and Lake Elmo have largely retained their rural character, making green space and country experiences a short drive away."
+                },
+                "accommodationCategory": "SingleFamilyResidence",
+                "numberOfBedrooms": 3,
+                "numberOfBathroomsTotal": 3.5,
+                "floorSize": {
+                    "@type": "QuantitativeValue",
+                    "value": 2678,
+                    "unitText": "Sq Ft"
+                }
+            },
+            "offers": {
+                "@type": "Offer",
+                "priceCurrency": "USD",
+                "price": 3400,
+                "availability": "https://schema.org/InStock"
+            },
+            "potentialAction": {
+                "@type": "RentAction"
+            }
+        },
+        {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@context": "https://schema.org",
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "name": "Houses",
+                        "@id": "https://www.apartments.com/houses/"
+                    }
+                },
+                {
+                    "@context": "https://schema.org",
+                    "@type": "ListItem",
+                    "position": 2,
+                    "item": {
+                        "name": "Minnesota",
+                        "@id": "https://www.apartments.com/houses/mn/"
+                    }
+                },
+                {
+                    "@context": "https://schema.org",
+                    "@type": "ListItem",
+                    "position": 3,
+                    "item": {
+                        "name": "Washington County",
+                        "@id": "https://www.apartments.com/houses/washington-county-mn/"
+                    }
+                },
+                {
+                    "@context": "https://schema.org",
+                    "@type": "ListItem",
+                    "position": 4,
+                    "item": {
+                        "name": "Woodbury",
+                        "@id": "https://www.apartments.com/houses/woodbury-mn/"
+                    }
+                },
+                {
+                    "@context": "https://schema.org",
+                    "@type": "ListItem",
+                    "position": 5,
+                    "item": {
+                        "name": "Woodbury/Afton/Lake Elmo",
+                        "@id": "https://www.apartments.com/houses/woodbury-afton-lake-elmo-woodbury-mn/"
+                    }
+                },
+                {
+                    "@context": "https://schema.org",
+                    "@type": "ListItem",
+                    "position": 6,
+                    "item": {
+                        "name": "10283 Bleeker St",
+                        "@id": "https://www.apartments.com/10283-bleeker-st-woodbury-mn/lxgqzye/"
+                    }
+                }
+            ]
+        }
+    ]
+}
