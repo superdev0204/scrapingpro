@@ -335,7 +335,7 @@ BlueHost is our host for our site.
 Best to access via Edge and not Chrome
 https://www.bluehost.com/my-account/login
 login: ValentinesByKids.org
-pw: TrueToaster562@ (sends 2FA code to my gmail)
+pw: GladHeartGrub7853@ (sends 2FA code to my gmail)
 
 FTP User:
 Username: kauf@valentinesbykids.org
@@ -348,6 +348,11 @@ pw: igXusfbFUg5x3yHsyfUueHPc
 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
 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
 
+Sendgrid credentials:
+https://login.sendgrid.com/login
+patrick@ValentinesByKids.org
+pw:  MaybePlayTheGameWellYes!27
+XS12XD8RVRA7N8AMJ3A855N3
 
 
 
@@ -375,3 +380,27 @@ mBvfwa/2SWJwr
 45.152.197.195:8000:A0CqX5:yAR64k
 
 
+
+ZYTE_API_CONFIG = {
+    "API_KEY": "e37ce659aece42448a67b0b9b53621f8",  # Replace with your real Zyte API key
+    "BASE_URL": "https://api.zyte.com/v1/extract",
+    "BROWSER_HTML": True,
+    "JAVASCRIPT_ENABLED": False,  # Set to True if needed for dynamic content
+    "GEOLOCATION": "US",
+    "DEVICE": "desktop",
+    "MAX_RETRIES": 3,
+    "TIMEOUT": 60,
+    "RETRY_DELAY": 2,
+    "REQUEST_OPTIONS": {
+        "browserHtml": True,
+        "httpResponseBody": True,
+        "httpResponseHeaders": True,
+        "screenshot": False,  # Set to True if you need screenshots
+        "actions": [],  # Custom browser actions if needed
+    },
+    "PLAN_LIMITS": {
+        "monthly_requests": 1000000,
+        "concurrent_requests": 100,
+        "regions": ["US", "EU"],
+    },
+}
